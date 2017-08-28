@@ -1,0 +1,16 @@
+Estructura de repositorio
+-Agregar reglamentación en la ubicación establecida por la cátedra
+-Quitar los parciales ya que no vamos a disponer de ellos físicamente
+-Modificar la organización de la carpeta clases por unidades
+-En la carpeta TP's agregar la carpeta Pecha Kucha
+-Quitar históricos (error conceptual)
+-Cambiar el nombre de la carpeta Planificación por una más específica
+-Quitar Línea Base y Tronco porque no corresponden
+
+Ítems de configuración
+-Corregir el nombrado de la Modalidad Académica
+-Corregir la ubicación de la Modalidad Académica
+-Corregir el nombrado de la Bibliografía Referenciada
+-Falta prefijo del proyecto
+-Corregir nombres poco representativos
+-Faltan extensiones de los ítems
